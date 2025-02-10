@@ -108,7 +108,7 @@
 }
 
 .post-image {
-  max-width: 100%;
+  max-width: 100vw;
   height: auto;
   border-radius: 8px;
   margin-bottom: 10px;
